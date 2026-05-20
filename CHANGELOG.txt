@@ -1,0 +1,17 @@
+=======================================================
+  CK3 Workshop Mod Converter - Changelog
+=======================================================
+
+v1.0.0 - 2026-05-20
+--------------------
+  - Initial release
+  - Converts SteamCMD workshop mods to Paradox local format
+  - Patches descriptor.mod (path fix, remote_file_id removal)
+  - Copy verification before optional source deletion
+  - Custom path support with config.json persistence
+  - Progress counter [X/Y] for each mod
+  - Failed mods summary at end of run
+  - Log file saved in logs\ folder after each run
+  - Auto-detects Windows username for default paths
+
+=======================================================
